@@ -1,0 +1,50 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Adan",
+      "last_name": "Fernandez",
+      "user_name": "adafer",
+      "password": "827ccb0eea8a706c4c34a16891f84e7b"
+    },
+    {
+      "id": 2,
+      "name": "Fernando",
+      "last_name": "Fernandez",
+      "user_name": "ferfer",
+      "password": "01cfcd4f6b8770febfb40cb906715822"
+    }
+  ],
+  "tasks": [
+    {
+      "id": 1622059002321,
+      "owner_id": 1,
+      "task_name": "Water the Plants"
+    },
+    {
+      "id": 1622059010594,
+      "owner_id": 1,
+      "task_name": "Go Visit Mom"
+    },
+    {
+      "id": 1622059101089,
+      "owner_id": 2,
+      "task_name": "Do the dishes"
+    },
+    {
+      "id": 1622059117219,
+      "owner_id": 2,
+      "task_name": "Go Shopping"
+    },
+    {
+      "id": 1622059139369,
+      "owner_id": 2,
+      "task_name": "Water the plants"
+    },
+    {
+      "id": 1622059253485,
+      "owner_id": 1,
+      "task_name": "Do My Homework"
+    }
+  ]
+}
